@@ -1,0 +1,1 @@
+import{_ as t,o as e,c}from"./index-8e90ccb7.js";const _={},o={class:"text-xl capitalize font-bold"};function n(a,s){return e(),c("div",o," contact ")}const d=t(_,[["render",n],["__scopeId","data-v-e7fcb15b"]]);export{d as default};
